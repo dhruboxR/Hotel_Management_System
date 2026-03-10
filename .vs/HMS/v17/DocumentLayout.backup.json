@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\searchclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\searchclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\infoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\infoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\hms\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\searchclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\searchclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\searchclient.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\searchclient.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\hms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\hms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\hms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|c:\\users\\dhrubo roy\\source\\repos\\hms\\hms\\searchclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\searchclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\hms\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91A7E910-93BA-411A-981D-E75DD0A9502A}|HMS\\HMS.csproj|solutionrelative:hms\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "infoUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\infoUpdate.cs",
+              "RelativeDocumentMoniker": "HMS\\infoUpdate.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\infoUpdate.cs",
+              "RelativeToolTip": "HMS\\infoUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:53:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.cs",
+              "RelativeDocumentMoniker": "HMS\\SearchClient.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.cs [Design]",
+              "RelativeToolTip": "HMS\\SearchClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:39:54.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHome.cs",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\FormHome.cs",
+              "RelativeDocumentMoniker": "HMS\\FormHome.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\FormHome.cs",
+              "RelativeToolTip": "HMS\\FormHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:59:32.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "HMS\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\RegistrationForm.cs",
+              "RelativeToolTip": "HMS\\RegistrationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:32:59.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "HMS\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "HMS\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T21:15:37.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userLOGIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\userLOGIN.cs",
+              "RelativeDocumentMoniker": "HMS\\userLOGIN.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\userLOGIN.cs [Design]",
+              "RelativeToolTip": "HMS\\userLOGIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T21:10:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\FormHome.cs",
+              "RelativeDocumentMoniker": "HMS\\FormHome.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\FormHome.cs [Design]",
+              "RelativeToolTip": "HMS\\FormHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:10:00.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HMS",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\HMS.csproj",
+              "RelativeDocumentMoniker": "HMS\\HMS.csproj",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\HMS.csproj",
+              "RelativeToolTip": "HMS\\HMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T09:01:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchClient.resx",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.resx",
+              "RelativeDocumentMoniker": "HMS\\SearchClient.resx",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.resx",
+              "RelativeToolTip": "HMS\\SearchClient.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-21T09:01:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchClient.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.Designer.cs",
+              "RelativeDocumentMoniker": "HMS\\SearchClient.Designer.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.Designer.cs",
+              "RelativeToolTip": "HMS\\SearchClient.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:01:51.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchClient.cs",
+              "DocumentMoniker": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.cs",
+              "RelativeDocumentMoniker": "HMS\\SearchClient.cs",
+              "ToolTip": "C:\\Users\\Dhrubo Roy\\source\\repos\\HMS\\HMS\\SearchClient.cs",
+              "RelativeToolTip": "HMS\\SearchClient.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAhwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:31:12.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
