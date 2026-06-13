@@ -1,4 +1,4 @@
-<h1 align="center">🏨 Hospital Management System (C#)</h1>
+<h1 align="center">🏨 Hotel Management System (C#)</h1>
 
 <p align="center">
 A desktop-based Hospital Management System built using <b>C#</b> and Windows Forms to manage patients, reception, registration, updates, and search operations efficiently.
