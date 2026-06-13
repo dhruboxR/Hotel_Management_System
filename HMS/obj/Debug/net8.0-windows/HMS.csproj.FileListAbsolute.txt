@@ -72,3 +72,4 @@ C:\Users\Dhrubo Roy\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.userLOGIN.
 C:\Users\Dhrubo Roy\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.RegistrationForm.resources
 C:\Users\Dhrubo Roy\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.SearchClient.resources
 C:\Users\Dhrubo Roy\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.infoUpdate.resources
+C:\Users\Dhrubo Roy\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.sourcelink.json

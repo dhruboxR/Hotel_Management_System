@@ -65,7 +65,7 @@
             label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
             label1.AutoSize = true;
             label1.Font = new Font("Times New Roman", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = SystemColors.ControlText;
+            label1.ForeColor = SystemColors.WindowFrame;
             label1.Location = new Point(117, 382);
             label1.Name = "label1";
             label1.Size = new Size(716, 68);
@@ -127,7 +127,7 @@
             // 
             passwordLabel.AutoSize = true;
             passwordLabel.Font = new Font("Bahnschrift SemiBold", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            passwordLabel.ForeColor = SystemColors.InactiveCaptionText;
+            passwordLabel.ForeColor = SystemColors.WindowFrame;
             passwordLabel.Location = new Point(117, 570);
             passwordLabel.Name = "passwordLabel";
             passwordLabel.Size = new Size(159, 34);
@@ -138,8 +138,8 @@
             // 
             usernameLabel.AutoSize = true;
             usernameLabel.Font = new Font("Bahnschrift SemiBold", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            usernameLabel.ForeColor = SystemColors.ActiveCaptionText;
-            usernameLabel.Location = new Point(123, 495);
+            usernameLabel.ForeColor = SystemColors.WindowFrame;
+            usernameLabel.Location = new Point(117, 495);
             usernameLabel.Name = "usernameLabel";
             usernameLabel.Size = new Size(161, 34);
             usernameLabel.TabIndex = 0;
@@ -209,6 +209,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Agency FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.Black;
             label2.Location = new Point(296, 784);
             label2.Name = "label2";
             label2.Size = new Size(251, 33);
@@ -219,6 +220,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Agency FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label3.ForeColor = Color.DeepSkyBlue;
             label3.Location = new Point(295, 846);
             label3.Name = "label3";
             label3.Size = new Size(398, 33);
@@ -229,6 +231,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Agency FB", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label4.ForeColor = Color.Red;
             label4.Location = new Point(296, 912);
             label4.Name = "label4";
             label4.Size = new Size(348, 33);
@@ -239,6 +242,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Agency FB", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.ForeColor = SystemColors.InactiveCaptionText;
             label5.Location = new Point(86, 1022);
             label5.Name = "label5";
             label5.Size = new Size(379, 35);
@@ -259,6 +263,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Agency FB", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.ForeColor = SystemColors.Desktop;
             label6.Location = new Point(536, 1018);
             label6.Name = "label6";
             label6.Size = new Size(428, 35);
