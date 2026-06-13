@@ -1,14 +1,14 @@
 <h1 align="center">🏨 Hotel Management System (C#)</h1>
 
 <p align="center">
-A desktop-based Hospital Management System built using <b>C#</b> and Windows Forms to manage patients, reception, registration, updates, and search operations efficiently.
+A desktop-based Hotel Management System built using <b>C#</b> and Windows Forms to manage bookings, guests, room allocation, check-in/out, and hotel operations efficiently.
 </p>
 
 ---
 
 ## 📌 Project Overview
 
-This project is a complete Hospital Management System designed to digitalize hospital workflows. It helps manage patient registration, reception handling, record updates, and patient search operations through a simple GUI.
+This project is a complete Hotel Management System designed to digitalize hotel operations. It helps manage guest registration, reception handling, room booking, record updates, and guest search operations through a simple GUI.
 
 ---
 
@@ -16,9 +16,10 @@ This project is a complete Hospital Management System designed to digitalize hos
 
 - 🔐 User Login System  
 - 🏠 Reception Dashboard  
-- 🧾 Patient Registration  
-- 🔍 Patient Search  
-- ✏️ Update Patient Records  
+- 🧾 Guest Registration / Booking System  
+- 🔍 Guest Search System  
+- ✏️ Update Guest Records  
+- 🛏️ Room Management Support  
 - 💻 Clean GUI Interface  
 - 🗄️ Database Integration  
 - ⚡ Fast and Simple Workflow  
@@ -39,16 +40,12 @@ This project is a complete Hospital Management System designed to digitalize hos
 
 ## 📂 Project Structure
 
-```text
-HospitalManagementSystem/
+HotelManagementSystem/
 │
 ├── HMS/              → Main C# source code
 ├── assets/           → UI icons and component images
 ├── result/           → Final screenshots of system
 └── README.md
-```
-
----
 
 ## 📸 Final Output
 
@@ -60,9 +57,9 @@ HospitalManagementSystem/
 
 ---
 
-## 🎨 UI Assets Overview
+## 🎨 UI Screens Overview
 
-These images represent different modules and UI components of the system.
+These images represent different modules and interfaces of the Hotel Management System.
 
 ---
 
@@ -82,7 +79,7 @@ These images represent different modules and UI components of the system.
 
 ---
 
-### 🧾 Patient Registration
+### 🧾 Guest Registration System
 
 <p align="center">
   <img src="result/registration.png" width="700">
@@ -94,7 +91,7 @@ These images represent different modules and UI components of the system.
 
 ---
 
-### 🔍 Patient Search System
+### 🔍 Guest Search System
 
 <p align="center">
   <img src="result/searchpatient.png" width="700">
@@ -102,7 +99,7 @@ These images represent different modules and UI components of the system.
 
 ---
 
-### ✏️ Update Patient Records
+### ✏️ Update Guest Records
 
 <p align="center">
   <img src="result/update1.png" width="700">
@@ -132,45 +129,39 @@ These images represent different modules and UI components of the system.
 
 ## 🎯 Objectives
 
-- Digitize hospital operations  
-- Reduce manual paperwork  
-- Improve patient management efficiency  
+- Digitize hotel operations  
+- Reduce manual booking processes  
+- Improve guest management efficiency  
 - Provide fast search and update system  
-- Centralized patient database  
+- Centralized hotel database management  
 
 ---
 
 ## 🔮 Future Improvements
 
-- Role-based login (Admin/Doctor/Receptionist)  
-- Appointment scheduling system  
-- Email/SMS notifications  
+- Role-based login system (Admin / Manager / Receptionist)  
+- Online room booking system  
+- Email and SMS notifications  
 - Cloud database integration  
-- Advanced reporting system  
+- Advanced reporting and analytics system  
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository  
-```bash
-git clone https://github.com/your-username/HospitalManagementSystem.git
-```
-
-2. Open the project in **Visual Studio**
-
-3. Configure database connection
-
-4. Build and run the project
+git clone https://github.com/your-username/HotelManagementSystem.git
 
 ---
-
 ## 👨‍💻 Developer
 
-**Dhrubo Chandra Roy**
+**Dhrubo Chandra Roy**  
+🎓 CSE Student | 💻 Software Developer | 🧠 Competitive Programmer  
 
-GitHub: https://github.com/dhruboxR
+- 🌐 GitHub: https://github.com/dhruboxR  
+- 📧 Email: your-email@example.com  
+- 📍 Location: Dhaka, Bangladesh  
 
 ---
 
-⭐ If you like this project, don't forget to give it a star!
+⭐ If you like this project, don’t forget to give it a star!
