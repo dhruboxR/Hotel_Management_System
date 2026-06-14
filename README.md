@@ -47,16 +47,6 @@ HotelManagementSystem/
 ├── result/           → Final screenshots of system
 └── README.md
 
-## 📸 Final Output
-
-### 🏁 Complete System UI
-
-<p align="center">
-  <img src="result/final_gui.png" width="800">
-</p>
-
----
-
 ## 🎨 UI Screens Overview
 
 These images represent different modules and interfaces of the Hotel Management System.
