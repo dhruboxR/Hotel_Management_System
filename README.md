@@ -103,10 +103,6 @@ These images represent different modules and interfaces of the Hotel Management 
   <img src="result/update3.png" width="700">
 </p>
 
-<p align="center">
-  <img src="result/update4.png" width="700">
-</p>
-
 ---
 
 ### 💻 Code Snapshot
