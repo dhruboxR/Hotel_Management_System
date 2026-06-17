@@ -145,7 +145,7 @@ git clone https://github.com/your-username/HotelManagementSystem.git
 🎓 CSE Student | 💻 Software Developer | 🧠 Competitive Programmer  
 
 - 🌐 GitHub: https://github.com/dhruboxR  
-- 📧 Email: your-email@example.com  
+- 📧 Email: dhrubox656@gmail.com  
 - 📍 Location: Dhaka, Bangladesh  
 
 ---
